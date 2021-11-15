@@ -14,6 +14,8 @@ https://www.digikala.com/
 
 
 
+blue 
+
 #E9E9E9    gray
 #6598C3    blue
 #E49B6E    darkOrange
