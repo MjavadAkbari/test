@@ -11,10 +11,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   opacity: 0;
 }
 
-.appear-animation-visible {
-  opacity: 1;
-}
-
 .animated,
 .appear-animation {
   -webkit-animation-fill-mode: both;
