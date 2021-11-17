@@ -14,7 +14,7 @@ https://www.digikala.com/
 
 
 
-blue 
+blue or dark 
 
 #E9E9E9    gray
 #6598C3    blue
